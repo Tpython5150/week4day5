@@ -1,0 +1,21 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "li2283-18.members.linode.com",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "da1_homework",
+            "database": "test_db",
+            "username": "postgres",
+            "password": "CodingTemple4L.."
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "name": "week4day5",
+            "connectString": "postgres://yoeswqrl:hfmhhNA_D1iHxSAru3f1CpG6JSmObch5@stampy.db.elephantsql.com/yoeswqrl"
+        }
+    ]
+}
